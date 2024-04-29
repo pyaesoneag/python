@@ -4,7 +4,7 @@
 #age = 30
 #print("My age is " + str(age))
 
-name = "Pyae Sone Aung"
+name = "pyae sone aung"
 print("My name is " + name)
 age = 30
-print("My age is " + str(age))
+print("My age is",age)
